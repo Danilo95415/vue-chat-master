@@ -1,0 +1,69 @@
+{
+  "chats": [
+    {
+      "message": "aaa",
+      "userName": "user1",
+      "id": 1
+    },
+    {
+      "message": "test",
+      "userName": "user2",
+      "id": 2
+    },
+    {
+      "message": "test",
+      "userName": "user1",
+      "id": 3
+    },
+    {
+      "message": "hey",
+      "userName": "user1",
+      "id": 4
+    },
+    {
+      "message": "yes im here whats up",
+      "userName": "user2",
+      "id": 5
+    },
+    {
+      "message": "he",
+      "userName": "user2",
+      "id": 6
+    },
+    {
+      "message": "adf",
+      "userName": "user1",
+      "id": 7
+    },
+    {
+      "message": "test",
+      "userName": "user2",
+      "id": 8
+    },
+    {
+      "message": "j sdf",
+      "userName": "user1",
+      "id": 9
+    },
+    {
+      "message": "pak her baek",
+      "userName": "user1",
+      "id": 10
+    },
+    {
+      "message": "masa",
+      "userName": "user2",
+      "id": 11
+    },
+    {
+      "message": "test reactivity",
+      "userName": "user1",
+      "id": 12
+    },
+    {
+      "message": "hey",
+      "userName": "user2",
+      "id": 13
+    }
+  ]
+}
